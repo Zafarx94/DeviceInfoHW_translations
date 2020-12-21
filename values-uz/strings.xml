@@ -169,7 +169,7 @@
     <string name="s_max_range">Maksimal qiymati:</string>
     <string name="s_resolution">Oʻlchami:</string>
     <string name="s_power">Quvvati:</string>
-    <string name="s_unit">Oʻlch. birligi:</string>
+    <string name="s_unit">Oʻlchov birligi:</string>
 
     <string name="unsupported">qoʻllanmaydi</string>
 
@@ -184,7 +184,7 @@
 
     <string name="camera_vendor">Chiqaruvchi</string>
     <string name="camera_model">Modeli</string>
-    <string name="camera_supported">Qoʻllaydi</string>
+    <string name="camera_supported">Qoʻllaniladigan kameralar</string>
 
     <string name="software">Dasturiy</string>
     <string name="hardware">Qurilmaviy</string>
@@ -222,7 +222,7 @@
     <string name="voltage">Kuchlanishi</string>
     <string name="power_profile">Tizim profili</string>
     <string name="kernel_profile">Yadro profili</string>
-    <string name="charged_to">Quvvatlanishiga</string>
+    <string name="charged_to">Quvvatlanishigacha</string>
     <string name="battery_model">Modeli</string>
     <string name="consumption">Sarfi</string>
     <string name="charge_speed">Quvvatlash tezligi</string>
@@ -280,12 +280,12 @@
     <string name="lcd_desc">Ekranga ranglarni uzatish\nmavjud boʻlmagan bitli piksellarni tekshiradi.</string>
 
     <string name="multitouch_label">Multi-touch</string>
-    <string name="multitouch_info">Sensorli ekranning multitachini sinash</string>
-    <string name="multitouch_desc">Qurilma necha marta bosish\nmumkinligini tekshiradi.</string>
+    <string name="multitouch_info">Sensorli ekranning koʻp bosishini sinash</string>
+    <string name="multitouch_desc">Qurilma displeyini necha marta bosish\nmumkinligini tekshiradi.</string>
 
-    <string name="touchdraw_label">Touch drawing</string>
+    <string name="touchdraw_label">Chizish aniqligi</string>
     <string name="touchdraw_info">Sensorli ekranda chizishni sinash</string>
-    <string name="touchdraw_desc">Bosish aniqligi va\n«oʻlik» hududlarni tekshiradi.</string>
+    <string name="touchdraw_desc">Bosish aniqligi hamda\n«oʻlik» hududlarni tekshiradi.</string>
 
     <!-- USB -->
 
@@ -323,8 +323,8 @@
     <string name="pref_title_use_root">Rootʼdan foydalanmoq</string>
     <string name="pref_description_use_root">Root orqali batafsil maʼlumot oladi.</string>
 
-    <string name="pref_title_show_address">«i2c» manzilni koʻrsatmoq</string>
-    <string name="pref_description_show_address">i2c manzilli qurilmasini koʻrsatadi.</string>
+    <string name="pref_title_show_address">«i2c» manzilini koʻrsatmoq</string>
+    <string name="pref_description_show_address">Qurilmadagi i2c manzilini koʻrsatadi.</string>
 
     <string name="pref_title_dark_theme">Qora temani qoʻllamoq</string>
     <string name="pref_description_dark_theme">Interfeysni qora temaga oʻtkazadi.</string>
@@ -333,13 +333,13 @@
 
     <string name="pref_text_scale">Matn oʻlchami</string>
 
-    <string name="pref_title_disable_sysfs_msg">sysfs xatoligini yoʻqotmoq</string>
+    <string name="pref_title_disable_sysfs_msg">«sysfs» xatoligini yoʻqotmoq</string>
     <string name="pref_description_disable_sysfs_msg">Android 7.0+ʼda sysfs oʻqishdagi xatolikni bartaraf etadi.</string>
 
-    <string name="pref_title_invert_charge_speed">Batareya tokini invertorlaydi</string>
+    <string name="pref_title_invert_charge_speed">Batareya tokini invertorlamoq</string>
     <string name="pref_description_invert_charge_speed">Batareyani quvvatlash/uzishni teskari tartibda koʻrsatadi.</string>
     <string name="pref_title_use_charged_to">\'Quvvatlanishgacha\' parametrini qoʻllamoq</string>
-    <string name="pref_description_use_charged_to">\'Quvvatlanishgacha\' parametrini qollaydi, biroq hammasini ham buni toʻliq qoʻllamaydi.</string>
+    <string name="pref_description_use_charged_to">\'Quvvatlanishgacha\' parametrini qoʻllaydi, biroq hammasi ham buni toʻliq qoʻllamaydi.</string>
 
     <string name="pref_title_temp_in_f_deg">Haroratni &#xb0;Fʼda koʻrsatmoq</string>
     <string name="pref_description_temp_in_f_deg">Harorat Farengeytda koʻrsatiladi.</string>
@@ -399,13 +399,13 @@
     <string name="kernel_analyzer_label">Yadro tahlilchisi</string>
 
     <string name="i2c_viewer_label">Qurilmalar roʻyxati</string>
-    <string name="i2c_viewer_info">i2c, spi shinalaridagi qurilma</string>
+    <string name="i2c_viewer_info">«i2c», «spi» shinalaridagi qurilmalar roʻyxati</string>
 
     <string name="exif_cam_label">EXIFʼda kamera haqida maʼlumot</string>
     <string name="exif_cam_info">Rasmdagi EXIF maʼlumotini oʻqimoq</string>
     <string name="open_img_file_label">Rasm tanlash...</string>
 
-    <string name="error_read_sysfs">Ushbu versiyada sysfs haqida maʼlumot olishga ruxsat etilmagan. Maʼlumot toʻliq emas.</string>
+    <string name="error_read_sysfs">Ushbu versiyada «sysfs» haqida maʼlumot olishga ruxsat etilmagan. Maʼlumot toʻliq emas.</string>
 
     <!-- Clipboard -->
 
